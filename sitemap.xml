@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://dte-06.github.io/DTE-06/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- เพิ่มหน้าต่าง ๆ ที่คุณมีในเว็บไว้ตรงนี้ -->
+  <!-- ตัวอย่าง: -->
+  <!--
+  <url>
+    <loc>https://dte-06.github.io/DTE-06/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+
+</urlset>
