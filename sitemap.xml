@@ -7,16 +7,13 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
   <url>
     <loc>https://dte-06.github.io/DTE-06/Image.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://dte-06.github.io/DTE-06/index.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <loc>https://dte-06.github.io/DTE-06/video.html</loc>
     <changefreq>monthly</changefreq>
